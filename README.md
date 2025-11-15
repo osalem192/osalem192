@@ -1,5 +1,5 @@
 # 💫 About Me:
-## I’m Omar, someone who enjoys building things, breaking them, and learning from both. I like working on projects that involve infrastructure, automation, and problem-solving. My background in electronics and networking helped shape the way I approach systems: I like understanding how everything connects and how to make it run smoothly. I’m always exploring new ideas, improving my workflows, and sharing what I learn along the way.
+### I’m Omar, someone who enjoys building things, breaking them, and learning from both. I like working on projects that involve infrastructure, automation, and problem-solving. My background in electronics and networking helped shape the way I approach systems: I like understanding how everything connects and how to make it run smoothly. I’m always exploring new ideas, improving my workflows, and sharing what I learn along the way.
 
 
 ## 🌐 Socials:
